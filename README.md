@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=205&section=header&text=Mukadas%20Akhtar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Analytics%20Graduate%20%E2%80%A2%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=6,20,30&text=Mukadas%20Akhtar&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=AI%20and%20Data%20Analytics%20Graduate%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=17&descAlignY=58" width="100%"/>
 
 # 👋 Hi, I'm Mukadas
 ### AI & Data Analytics Graduate · Data Analyst · Machine Learning Enthusiast
