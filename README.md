@@ -99,6 +99,68 @@ I'm a recent **Master's graduate in AI and Data Analytics** with a strong intere
 
 
 ---
+---
+
+## Certifications
+
+These certifications support my learning in Power Bi, SQL, data analytics, business intelligence, , Excel, and machine learning.
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/09510d9196711ff84373ba5c5894a5002dee2516?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa">
+       <img width="1502" height="866" alt="image" src="https://github.com/user-attachments/assets/d56885ac-133d-432b-835b-1c5a9d5bab6c" />
+      </a>
+      <br>
+      <b>Data Analyst in Power BI</b>
+      <br>
+      <sub>Issued by DataCamp</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.skills.google/public_profiles/ac31e6c3-a083-4d40-977f-5ff647bff7d9/badges/12306000?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">
+      </a>
+      <br>
+      <b>Analyzing and Visualizing Data in Looker</b>
+      <br>
+      <sub>Google Skills</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.skills.google/public_profiles/ac31e6c3-a083-4d40-977f-5ff647bff7d9/badges/10880122?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">
+      </a>
+      <br>
+      <b>Introduction to Data Analytics on Google Cloud</b>
+      <br>
+      <sub>Google Skills</sub>
+
+
+---
+
+## Education
+
+**University of Bradford**  
+Master of Science in Artificial Intelligence and Data Analytics  
+January 2024 – March 2025
+
+**Lahore University of Management Sciences**  
+2019 – 2023
+
+---
+
+## What I Am Improving Next
+
+I am continuing to improve this portfolio by adding clearer project documentation, dashboard screenshots, model results, cleaned notebooks, and stronger insight summaries for each project.
+
+---
+
+<div align="center">
+
+### Turning raw data into clear decisions.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:0D0D0D,100:F9A8D4" width="100%"/>
+
+</div>
 
 <div align="center">
 
