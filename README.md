@@ -100,14 +100,13 @@ I'm a recent **Master's graduate in AI and Data Analytics** with a strong intere
 
 ## Full Portfolio
 
-<div align="center">
-
 [![View Portfolio](https://img.shields.io/badge/View%20My%20Full%20Portfolio-F9A8D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio)
 
 </div>
 
 ---
 
+<div align="center">
 
 ### Let's turn data into decisions.
 
