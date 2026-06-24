@@ -8,7 +8,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F9A8D4&center=true&vCenter=true&width=760&lines=Python+%7C+SQL+%7C+Power+BI;Data+Analysis+%7C+Machine+Learning+%7C+Dashboards;Turning+messy+data+into+clear+insights" alt="Typing SVG" />
 
 <p>
-  I build data projects that turn messy information into clean analysis, useful dashboards, and practical insights.
+  Exploring data, building dashboards, and using machine learning to turn raw information into meaningful insights.
+</p>
 </p>
 
 </div>
