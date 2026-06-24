@@ -103,37 +103,41 @@ I'm a recent **Master's graduate in AI and Data Analytics** with a strong intere
 
 ## Certifications
 
-These certifications support my learning in Power Bi, SQL, data analytics, business intelligence, , Excel, and machine learning.
+These certifications support my learning in Power BI, SQL, data analytics, business intelligence, Excel, and machine learning.
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/09510d9196711ff84373ba5c5894a5002dee2516?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa">
-       <img width="1502" height="866" alt="image" src="https://github.com/user-attachments/assets/d56885ac-133d-432b-835b-1c5a9d5bab6c" />
+        <img width="260" alt="Data Analyst in Power BI Certificate" src="https://github.com/user-attachments/assets/d56885ac-133d-432b-835b-1c5a9d5bab6c" />
       </a>
-      <br>
+      <br><br>
       <b>Data Analyst in Power BI</b>
       <br>
       <sub>Issued by DataCamp</sub>
     </td>
-    <td width="50%" align="center" valign="top">
+
+    <td width="33%" align="center" valign="top">
       <a href="https://www.skills.google/public_profiles/ac31e6c3-a083-4d40-977f-5ff647bff7d9/badges/12306000?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">
+        <img src="https://img.shields.io/badge/Google%20Skills-Looker%20Data%20Visualization-F9A8D4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0D0D0D" alt="Google Skills Looker Badge" />
       </a>
-      <br>
+      <br><br>
       <b>Analyzing and Visualizing Data in Looker</b>
       <br>
-      <sub>Google Skills</sub>
+      <sub>Issued by Google Skills</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
+
+    <td width="33%" align="center" valign="top">
       <a href="https://www.skills.google/public_profiles/ac31e6c3-a083-4d40-977f-5ff647bff7d9/badges/10880122?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share">
+        <img src="https://img.shields.io/badge/Google%20Skills-Data%20Analytics%20on%20Google%20Cloud-F9A8D4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0D0D0D" alt="Google Skills Data Analytics Badge" />
       </a>
-      <br>
+      <br><br>
       <b>Introduction to Data Analytics on Google Cloud</b>
       <br>
-      <sub>Google Skills</sub>
-
+      <sub>Issued by Google Skills</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
