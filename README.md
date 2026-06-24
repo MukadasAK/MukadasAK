@@ -47,8 +47,6 @@ I'm a recent **Master's graduate in AI and Data Analytics** with a strong intere
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -56,24 +54,24 @@ I'm a recent **Master's graduate in AI and Data Analytics** with a strong intere
 
 ## 📌 Featured Projects
 
-### 🏥 NHS A&E Performance Analysis
+### 🏥 [NHS A&E Performance Analysis](https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/NHS_project)
 > SQL, Python, and Power BI project focused on cleaning NHS A&E data, preparing analysis tables, creating SQL views, and building dashboard-ready insights.
 
-**Stack:** SQL · Python · Power BI · Data Cleaning · Healthcare Analytics
+**Stack:** SQL ·  Power BI · Data Cleaning · Healthcare Analytics
 
 ---
 
 ### 🛒 [Ecommerce Purchase Prediction](https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/ecommerce-purchase-prediction)
 > Machine learning project predicting e-commerce purchase behavior using session attributes and model comparison.
 
-**Stack:** Python · Scikit-learn · Jupyter Notebook · Logistic Regression · SVM · Decision Trees
+**Stack:** Python · Scikit-learn  · Logistic Regression · SVM · Decision Trees
 
 ---
 
 ### 💊 [SmartHealth UK Booking App](https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/smarthealth-uk-bookingapp)
 > Healthcare booking application prototype designed for UK users, with a focus on appointment scheduling, secure data handling, and usability.
 
-**Stack:** Python · Flask · SQL · HTML · CSS · JavaScript
+**Stack:** Python · Flask · SQL ·Canva
 
 ---
 
