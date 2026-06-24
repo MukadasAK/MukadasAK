@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:185FA5&height=190&section=header&text=Mukadas%20Akhtar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Analytics%20Graduate%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=205&section=header&text=Mukadas%20Akhtar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Analytics%20Graduate%20%E2%80%A2%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI&descAlignY=58&descSize=17" width="100%"/>
 
 # 👋 Hi, I'm Mukadas
 ### AI & Data Analytics Graduate · Data Analyst · Machine Learning Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=MukadasAK&color=185FA5&style=flat&label=Profile+Views" alt="profile views"/>
+<p>
+  I build data projects that turn messy information into clean analysis, useful dashboards, and practical insights.
+</p>
 
 </div>
 
@@ -26,27 +28,26 @@ I'm a recent **Master's graduate in AI and Data Analytics** with a strong intere
 
 ## 🛠 Data & Analytics Stack
 
-**Languages & Databases**  
-> Python · SQL · SQLite · MySQL
-
-**Data Analysis & Machine Learning**  
-> pandas · NumPy · Scikit-learn · Jupyter Notebook · Statistical Analysis
-
-**Visualization & BI**  
-> Power BI · Excel · Matplotlib · Dashboard Reporting
-
-**Tools & Workflow**  
-> Git · GitHub · VS Code · GitHub Desktop
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+### Core Tools
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,flask" />
+
+<br><br>
+
+<table>
+  <tr>
+    <td align="center"><b>Languages</b><br>Python · SQL</td>
+    <td align="center"><b>Analytics</b><br>pandas · NumPy · Matplotlib</td>
+    <td align="center"><b>Machine Learning</b><br>Scikit-learn · Model Evaluation</td>
+  </tr>
+  <tr>
+    <td align="center"><b>BI & Reporting</b><br>Power BI · Excel · Dashboards</td>
+    <td align="center"><b>Workflow</b><br>Git · GitHub · VS Code</td>
+    <td align="center"><b>Design</b><br>Canva · Presentation Layouts</td>
+  </tr>
+</table>
 
 </div>
 
@@ -54,59 +55,45 @@ I'm a recent **Master's graduate in AI and Data Analytics** with a strong intere
 
 ## 📌 Featured Projects
 
-### 🏥 [NHS A&E Performance Analysis](https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/NHS_project)
-> SQL, Python, and Power BI project focused on cleaning NHS A&E data, preparing analysis tables, creating SQL views, and building dashboard-ready insights.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/NHS_project">NHS A&E Performance Analysis</a></h3>
+      <p>SQL and Power BI project focused on cleaning NHS A&E data, preparing analysis tables, creating SQL views, and building dashboard-ready insights.</p>
+      <p><b>Stack:</b> SQL · Power BI · Data Cleaning · Healthcare Analytics</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/ecommerce-purchase-prediction">Ecommerce Purchase Prediction</a></h3>
+      <p>Machine learning project predicting e-commerce purchase behavior using session attributes and model comparison.</p>
+      <p><b>Stack:</b> Python · Scikit-learn · Logistic Regression · SVM · Decision Trees</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💊 <a href="https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/smarthealth-uk-bookingapp">SmartHealth UK Booking App</a></h3>
+      <p>Healthcare booking application prototype designed for UK users, with a focus on appointment scheduling, secure data handling, and usability.</p>
+      <p><b>Stack:</b> Python · Flask · SQL · Canva</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌸 <a href="https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/perfumeallergenanalysis">Perfume Allergen Analysis</a></h3>
+      <p>Data analysis and machine learning project exploring perfume allergens and price prediction.</p>
+      <p><b>Stack:</b> Python · Web Scraping · Data Analysis · Machine Learning</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 <a href="https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/salarytrendsinsights">Salary Trends Insights</a></h3>
+      <p>Data-driven analysis of salary trends in the data science industry.</p>
+      <p><b>Stack:</b> Data Analysis · Visualization · Salary Insights</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📂 <a href="https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio">Full Portfolio Repository</a></h3>
+      <p>A central portfolio space for my data analytics, machine learning, healthcare, and dashboard projects.</p>
+      <p><b>Focus:</b> Python · SQL · Power BI · AI/Data Analytics</p>
+    </td>
+  </tr>
+</table>
 
-**Stack:** SQL ·  Power BI · Data Cleaning · Healthcare Analytics
-
----
-
-### 🛒 [Ecommerce Purchase Prediction](https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/ecommerce-purchase-prediction)
-> Machine learning project predicting e-commerce purchase behavior using session attributes and model comparison.
-
-**Stack:** Python · Scikit-learn  · Logistic Regression · SVM · Decision Trees
-
----
-
-### 💊 [SmartHealth UK Booking App](https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/smarthealth-uk-bookingapp)
-> Healthcare booking application prototype designed for UK users, with a focus on appointment scheduling, secure data handling, and usability.
-
-**Stack:** Python · Flask · SQL ·Canva
-
----
-
-### 🌸 [Perfume Allergen Analysis](https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/perfumeallergenanalysis)
-> Data analysis and machine learning project exploring perfume allergens and price prediction.
-
-**Stack:** Python · Web Scraping · Data Analysis · Machine Learning
-
----
-
-### 💼 [Salary Trends Insights](https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio/tree/main/salarytrendsinsights)
-> Data-driven analysis of salary trends in the data science industry.
-
-**Stack:** Data Analysis · Visualization · Salary Insights
-
----
-
-## 📂 Portfolio Repository
-
-<div align="center">
-
-[![Portfolio Repo](https://img.shields.io/badge/View%20My%20Portfolio-185FA5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MukadasAK/Mukadas-Akhtar-Portfolio)
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MukadasAK&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukadasAK&layout=compact&theme=default&hide_border=true" />
-
-</div>
 
 ---
 
@@ -114,6 +101,6 @@ I'm a recent **Master's graduate in AI and Data Analytics** with a strong intere
 
 ### Let's turn data into decisions.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:185FA5&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=105&section=footer" width="100%"/>
 
 </div>
