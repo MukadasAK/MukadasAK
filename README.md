@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=6,20,30&text=Mukadas%20Akhtar&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=AI%20and%20Data%20Analytics%20Graduate%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=17&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D0D0D,100:F9A8D4&text=Mukadas%20Akhtar&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=AI%20and%20Data%20Analytics%20Graduate%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=17&descAlignY=58" width="100%"/>
 
 # 👋 Hi, I'm Mukadas
 ### AI & Data Analytics Graduate · Data Analyst · Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F9A8D4&center=true&vCenter=true&width=760&lines=Python+%7C+SQL+%7C+Power+BI;Data+Analysis+%7C+Machine+Learning+%7C+Dashboards;Turning+messy+data+into+clear+insights" alt="Typing SVG" />
 
 <p>
   I build data projects that turn messy information into clean analysis, useful dashboards, and practical insights.
@@ -32,7 +34,7 @@ I'm a recent **Master's graduate in AI and Data Analytics** with a strong intere
 
 ### Core Tools
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,flask" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,flask&theme=dark" />
 
 <br><br>
 
@@ -101,6 +103,6 @@ I'm a recent **Master's graduate in AI and Data Analytics** with a strong intere
 
 ### Let's turn data into decisions.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:14B8A6&height=105&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0D0D0D,100:F9A8D4" width="100%"/>
 
 </div>
